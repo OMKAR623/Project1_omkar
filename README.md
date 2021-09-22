@@ -5,8 +5,8 @@ For this Big-data project, I took the web-series data from Kaggle website, and c
 # Objective
 We need to find some insights on it. For Business growth and to improve marketing strategy. Finding theright target audience.
 
-*Find out the total number of user in this datasets;
-*Find out the number of Facebook user above age of 30
+* Find out the total number of user in this datasets;
+* Find out the number of Facebook user above age of 30
 *Do male Facebook user tend to have more friend or female user?
 *How many like do young people receive on Facebook opposed to older member?
 *Find out the count of Facebook user for each birthday month
